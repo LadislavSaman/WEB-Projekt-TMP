@@ -1,2 +1,4 @@
 # WEB-Projekt-TMP
-sda
+Ladislav Šaman
+HTML CSS PHP bootstrap
+
